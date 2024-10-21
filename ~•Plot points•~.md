@@ -103,6 +103,7 @@ Zan na czatach
 - [I] Betony Naczynia są niewystarczalne, nie potrafią zachować w sobie magii. Potrzeba lepszych naczyń - uczniów orgazmusa
 - [I] Klastor ma na plecach bliźniaka syjamskiego, który jest poważny i ma niski głos. Jego ręce to spluwy, strzela palcami zebranymi z betonów. Palce są przyczepione w paskach dokoła ciała Klastora 
 - [I] Wichał jest druidem, może nauczyć Zana czegoś druidowego
+- [I] [[Zarodniki]] został znalezione podczas kopania pod Laskowicami, pochodzą z grzybni [[Mycelianie |Mycelianów]]   
 
 ---
 	TIMESKIP TO ROKU SZKOLNEGO
