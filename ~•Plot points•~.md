@@ -92,18 +92,14 @@ Zan na czatach
 	- [x] Drugi ochroniarz zastraszony przez Baltazara
 	- [x] Baltazar, Britney, Zan, Kameliusz wpadają w pułapkę i lądują w klatkach
 	- [x] Kameliusz zostaje od razu zabrany do portu przy kanalizacji
+	- [x] Daecon i Luke wbijają do budynku przez krate w dachu, wypuszczają graczy
+	- [x] Gracze spotykają [[Wichał Brzoskwiński]]
 
-- [ ] zostają uwięzieni(albo ochroniarze albo zapadająca się podłoga)
-- [ ] trafiają do celi
-- [ ] spotykają wichała
-- [ ] Kameliusza z nimi nie ma, został zabrany
-- [ ] uciekają przez kibel 
-- [ ] przez kanalizacje trafiają do innej części bazy
-- [ ] troche mały combat
-- [ ] znajdują dokumenty o [[Operacja Fibrobeton]]
-- [ ] klastor ucieka motorówka z kameliuszem
-- [ ] wichal Brzoskwinski wskakuje do wody i ciągnie motorówkę 
-- [ ] POŚCIG
+	- [ ] troche mały combat
+	- [ ] znajdują dokumenty o [[Operacja Fibrobeton]]
+	- [ ] klastor ucieka motorówka z kameliuszem
+	- [ ] wichal Brzoskwinski wskakuje do wody i ciągnie motorówkę 
+	- [ ] POŚCIG
 - [I] Betony Naczynia są niewystarczalne, nie potrafią zachować w sobie magii. Potrzeba lepszych naczyń - uczniów orgazmusa
 - [I] Klastor ma na plecach bliźniaka syjamskiego, który jest poważny i ma niski głos. Jego ręce to spluwy, strzela palcami zebranymi z betonów. Palce są przyczepione w paskach dokoła ciała Klastora 
 
