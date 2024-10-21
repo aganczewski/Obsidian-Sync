@@ -64,7 +64,7 @@
 	- [x] [[Wydobywanie kamieni szlachetnych]]
  - [x] Cementyna daje im znać, że od przyszłego tygodnia zaczynają rok akademicki i podsyła im [[plan zajęć]]. 
 - [x] Gracze podbijają do mieszkania Kameliusza zostają zaatakowani przez Gruzy. Jest [[Walka w szarej strefie]]. Podczas walki pomaga im Kameliusz. 
-- [ ] [[Kameliusz]] przyjmuje ich do siebie. 
+- [x] [[Kameliusz]] przyjmuje ich do siebie. 
 	- [x] Domyślił się, że to gracze walczyli w betoniarce. Wyróżniają się w betonowie, szczególnie po takiej akcji. Ostrzega ich, że powinni uważać, przyciągają dużo uwagi. Nie wie czy zauważyli, ale w Betonowie jest dosyć jednolicie. 
 	- [x] Kameliusz eksperymentuje z magią dla Betonów. Wszystkie jego badania i sprzęt zostały ukradzione ostatnio podczas włamania. Może byli po [[Rekawica Kameliusza |rękawice]]. 
 	- [x] Mówi, że w jego mieszkaniu było włamanie, gdzie ukradziono wszystkie jego badania i eksperymenty. Pokazuje graczą nagranie, gdzie widzą betony, które wyglądają jak te z betoniarki i są tam też duże gruzy. Kameliusz mówi, że widział takie duże gruzy przy Klastorze. 
@@ -77,13 +77,13 @@
 	- [x] [[Zan]] imponuje [[Betonce]] robiąc fikołka w powietrzu - Betonce może chce zrobić jakiś show pokazowym z Zanem 
 - [x]  [[Kameliusz]] zamieszkuje w domu [[Wichał Brzoskwiński |Wichała Brzoskwińskiego]] 
 	- [x] [[Kameliusz]] prosi graczy o pomoc w odzyskaniu swoich rzeczy od [[Klastor |Klastora]].
-- [ ]  Plan do Klastora 
-Kameliusz ma wejsc
-rekawica z Daeconem
-Baltazar miesien w srodku
-Britney do środka
-Daecon z Lukiem na niewiddze w środku(przeszukać pomieszczenia)
-Zan na czatach
+- [b]  Plan do Klastora 
+- Kameliusz ma wejsc
+- rekawica z Daeconem
+- Baltazar miesien w srodku
+- Britney do środka
+- Daecon z Lukiem na niewiddze w środku(przeszukać pomieszczenia)
+- Zan na czatach
 - [x] Przed bazą Klastora stoi jeden mały gruz bez palców, który przyszedł po [[Boksyt]]. Prosi kogoś o pieniądze, najlepiej [[Luke |Luke'a]]. Czeka na swoją kolej i wchodzi do Klastora, gdy z pokoju wychodzi postać ubrana na szaro z głębokim kapturem, która szybko usuwa się z okolicy.
 	- [x] DC15 - zauważają, że to [[Petra]] ona szybko ucieka
 	- [x] Jeśli dali mu kase to mały gruz wychodzi cały od Klastora. Jeśli nie dali mu kasy mały gruz umiera u Klastora.
