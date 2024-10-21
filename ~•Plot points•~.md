@@ -96,7 +96,10 @@ Zan na czatach
 	- [x] Gracze spotykają [[Wichał Brzoskwiński |Wichała]]
 	- [l] Combat Klastor 1
 		- [!] [[Tenery]] biją na alarm 
-		- [!] Klastor wpada przed dziure w suficie, DOBRZE OPISAĆ PRZEDNIEGO KLASTORA. Z jego pleców wychodzi głos, który karze zdjąć płaszcz. Ukazuje się tył KLASTORA. Opisać dobrze tył Klastora
+		- [!] Klastor wpada przed dziure w suficie, 
+			- [ ] DOBRZE OPISAĆ PRZEDNIEGO KLASTORA. Z jego pleców wychodzi głos, który karze zdjąć płaszcz. 
+			- [ ] Ukazuje się tył KLASTORA. Opisać dobrze tył Klastora, pasy palców betonów
+			- [ ] 
 	- [ ] znajdują notatki z rozkazami - opis, że dostali polecenie porwać Kameliusza wcześniej, bo jest potrzebny do planów organizacji  
 	- [ ] klastor ucieka motorówka z kameliuszem
 	- [ ] wichal Brzoskwinski aktywuje druid formę szczura i ciągnie motorówkę 
