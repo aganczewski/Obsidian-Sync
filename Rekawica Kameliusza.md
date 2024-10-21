@@ -4,4 +4,4 @@ JAK RĘKAWICA HELLBOYA
 
 Umiejętności:
 - [Shocking Grasp](https://roll20.net/compendium/dnd5e/Shocking%20Grasp#content)
-- 
+- [Sorcerous Bolt](https://www.dndbeyond.com/spells/2618839-sorcerous-burst) - zawsze lightning, dostaje tyle samo obrażeń
