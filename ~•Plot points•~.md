@@ -97,8 +97,7 @@ Zan na czatach
 	- [l] Combat Klastor 1
 		- [!] [[Tenery]] biją na alarm 
 		- [!] Klastor wpada przed dziure w suficie, 
-			- [ ] DOBRZE OPISAĆ PRZEDNIEGO KLASTORA. Z jego pleców wychodzi głos, który karze zdjąć płaszcz. 
-			- [ ] Ukazuje się tył KLASTORA. Opisać dobrze tył Klastora, pasy palców betonów
+			- [ ] DOBRZE OPISAĆ PRZEDNIEGO KLASTORA. Z jego pleców wychodzi głos, który karze zdjąć płaszcz. Ukazuje się tył KLASTORA. Opisać dobrze tył Klastora, pasy palców betonów. Przednią częścią trzyma przytomnego Kameliusza. Tył Klastora wydaje polecenie, aby "złapać ich". 
 			- [ ] 
 	- [ ] znajdują notatki z rozkazami - opis, że dostali polecenie porwać Kameliusza wcześniej, bo jest potrzebny do planów organizacji  
 	- [ ] klastor ucieka motorówka z kameliuszem
