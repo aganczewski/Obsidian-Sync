@@ -84,21 +84,15 @@ Baltazar miesien w srodku
 Britney do środka
 Daecon z Lukiem na niewiddze w środku(przeszukać pomieszczenia)
 Zan na czatach
-- [ ] Przed bazą Klastora stoi jeden mały gruz bez palców, który przyszedł po [[Boksyt]]. Prosi kogoś o pieniądze, najlepiej [[Luke |Luke'a]]. Czeka na swoją kolej i wchodzi do Klastora, gdy z pokoju wychodzi postać ubrana na szaro z głębokim kapturem, która szybko usuwa się z okolicy.
+- [x] Przed bazą Klastora stoi jeden mały gruz bez palców, który przyszedł po [[Boksyt]]. Prosi kogoś o pieniądze, najlepiej [[Luke |Luke'a]]. Czeka na swoją kolej i wchodzi do Klastora, gdy z pokoju wychodzi postać ubrana na szaro z głębokim kapturem, która szybko usuwa się z okolicy.
 	- [x] DC15 - zauważają, że to [[Petra]] ona szybko ucieka
 	- [x] Jeśli dali mu kase to mały gruz wychodzi cały od Klastora. Jeśli nie dali mu kasy mały gruz umiera u Klastora.
-- [ ] Przed wejściem do domu czeka dwóch ochroniarzy, pytają się po co przyszli gracze i Kameliusz
-	- [ ] Kameliusz mówi, że przyszli zobaczyć czy są jakieś ciekawe rzeczy do kupienia
-	- [ ] Ochroniarz wchodzi do środka i przekazuje informacje do Klastora, po chwili zostają wpuszczeni
-	- [ ] W ciemnej sali cichej sali, za kratą siedzi Klastor(jak ksiądz w konfesjonale).
-	- [ ] Klastor wita Kameliusza i graczy
-	- [ ] Kameliusz próbuje wynegocjować, żeby Klastor oddał mu jego rzeczy. Klastor może się przydać, że zabrał jego rzeczy, ale na pewno mu ich nie odda. 
-	- [ ] Klastor mówi, że pójdzie po coś na zaplecze. Ochroniarze dostają rozkaz porwać Kameliusza i spółke i zamknąć ich w podziemiach. 
-- [ ] Na zapleczu
-	- [ ] Kręci się [[Murin]] wraz z kilkoma ochroniarzami.          
-- [ ] Weszli do Klastora
-	- [ ] [[Klastor]] zbiera palce, które przyczepia sobie do rąk, aby lepiej grać na pianinie
-- [ ] negocjacje z klastorem
+- [x] Przed wejściem do domu czeka dwóch ochroniarzy, pytają się po co przyszli gracze i Kameliusz
+	- [x] Ochroniarz [[Żwirek]] przegadany
+	- [x] Drugi ochroniarz zastraszony przez Baltazara
+	- [x] Baltazar, Britney, Zan, Kameliusz wpadają w pułapkę i lądują w klatkach
+	- [x] Kameliusz zostaje od razu zabrany do portu przy kanalizacji
+
 - [ ] zostają uwięzieni(albo ochroniarze albo zapadająca się podłoga)
 - [ ] trafiają do celi
 - [ ] spotykają wichała
@@ -111,7 +105,7 @@ Zan na czatach
 - [ ] wichal Brzoskwinski wskakuje do wody i ciągnie motorówkę 
 - [ ] POŚCIG
 - [I] Betony Naczynia są niewystarczalne, nie potrafią zachować w sobie magii. Potrzeba lepszych naczyń - uczniów orgazmusa
-
+- [I] Klastor ma na plecach bliźniaka syjamskiego, który jest poważny i ma niski głos. Jego ręce to spluwy, strzela palcami zebranymi z betonów. Palce są przyczepione w paskach dokoła ciała Klastora 
 
 ---
 	TIMESKIP TO ROKU SZKOLNEGO
