@@ -86,8 +86,7 @@
 	- [x] Zan na czatach
 - [x] Przed bazą Klastora stoi jeden mały gruz bez palców, który przyszedł po [[Boksyt]]. Prosi kogoś o pieniądze, najlepiej [[Luke |Luke'a]]. Czeka na swoją kolej i wchodzi do Klastora, gdy z pokoju wychodzi postać ubrana na szaro z głębokim kapturem, która szybko usuwa się z okolicy.
 	- [x] DC15 - zauważają, że to [[Petra]] ona szybko ucieka
-	- [ ] Jeśli dali mu kase to mały gruz wychodzi cały od Klastora. 
-	- [ ] Jeśli nie dali mu kasy mały gruz umiera u Klastora.
+	- [x] Jeśli dali mu kase to mały gruz wychodzi cały od Klastora. Jeśli nie dali mu kasy mały gruz umiera u Klastora.
 - [ ] Przed wejściem do domu czeka dwóch ochroniarzy, pytają się po co przyszli gracze i Kameliusz
 	- [ ] Kameliusz mówi, że przyszli zobaczyć czy są jakieś ciekawe rzeczy do kupienia
 	- [ ] Ochroniarz wchodzi do środka i przekazuje informacje do Klastora, po chwili zostają wpuszczeni
