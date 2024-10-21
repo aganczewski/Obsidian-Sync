@@ -77,7 +77,7 @@
 	- [x] [[Zan]] imponuje [[Betonce]] robiąc fikołka w powietrzu - Betonce może chce zrobić jakiś show pokazowym z Zanem 
 - [x]  [[Kameliusz]] zamieszkuje w domu [[Wichał Brzoskwiński |Wichała Brzoskwińskiego]] 
 	- [x] [[Kameliusz]] prosi graczy o pomoc w odzyskaniu swoich rzeczy od [[Klastor |Klastora]].
-- [ ]  Plan do Klastora 
+- [ ] Plan do Klastora 
 Kameliusz ma wejsc
 rekawica z Daeconem
 Baltazar miesien w srodku
