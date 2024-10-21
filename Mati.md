@@ -1,0 +1,1 @@
+Początkujący ochroniarz w [[Betoniarka |betoniarce]]. 

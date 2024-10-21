@@ -1,0 +1,1 @@
+Zarodniki pochodzące od [[Mycelianie|mycelianów]]. Potrafią uśpić większość istot. Odporni na to są [[Beton złodziej]]. 

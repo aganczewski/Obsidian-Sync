@@ -1,0 +1,1 @@
+Umieszczony w [[kula dyskotekowa |kuli dyskotekowej]] przez [[Kameliusz | Kameliusza]]. Kupiony przez Kameliusza od [[Klastor |Klastora]].

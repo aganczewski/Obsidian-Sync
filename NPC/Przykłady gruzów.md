@@ -1,0 +1,6 @@
+- kasjer, który mówi tylko w cyfrach
+- gruz z trzecią ręką, której nie kontroluje
+- gruz pług, ma szeroką twarz która szura po ziemi
+- niski gruz z długimi rękoma, których nie może podnieść 
+- gruz z jedną dużą ręką, jego tors kręci się na osi
+- 

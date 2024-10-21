@@ -1,0 +1,4 @@
+Około pół metrowa w średnicy piękna kula dyskotekowa należąca do właścicielki [[Betoniarka|Betoniarki]] [[Betonce]]. Był to prezent od jej partnera [[Kameliusz |Kameliusza]]. Zawiera zaawansowany system luster, który odbija i potęguje duże ilości światła. Może być użyty w [[betonator |betonatorze]]. 
+
+Zewnętrzna warstwa jest półprzeźroczysta, składa się z luster weneckich skierowanych do środka. W środku znajduje się mechanizm, który steruje zaawansowanym systemem luster. W centrum kuli znajduje się [[refraktor]], w którym zamieszczony jest [[Oryginalny klejnot |klejnot naładowany spellem Dancing Light]]. Światło generowane przez klejnot odbija się między lustrami i wewnętrzną warstwą powłoki.  [[Oryginalny klejnot]] [[Kameliusz]] od [[Klastor |Klastora]]. Wszystkie te elementy składają się na urządzenie, które potęguje czar zamknięty w klejnocie. 
+

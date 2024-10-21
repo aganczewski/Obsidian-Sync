@@ -1,0 +1,1 @@
+Podziemny krąg walk wrestligowych w [[Szara strefa |Szarej Strefie]]. Fundowany przez [[Betrand |Betranda]]. 

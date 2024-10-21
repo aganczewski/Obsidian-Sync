@@ -1,0 +1,15 @@
+- Rodzina Aspdinów prowadzi biznes obok laskowic
+- James Aspdin ucieka do Laskowic 
+- James poznaje Zendriade i Mycelianów
+- Zendriada tworzy różdżki z Socatry dla Jamesa
+- Zendriada i James zostają wygnani z wioski Mycelianów
+- James zostaje uwięziony w żywicy Socatry
+- Mycelianie tracą dostęp do magii
+- Joseph natrafia na korzenie Socatry podczas kopania pod Laskowicami
+- Pierwszy beton zyskuje świadomość przez kontakt z żywicą
+- Joseph tworzy więcej betonów z pomocą żywicy Socatry
+- Joseph próbuje stworzyć betony posługujące się magia, te eksperymenty się nie udają, wynikiem tego są gruzy
+- Betony chcą uczyć się jak inne rasy
+- Joseph Aspdin tworzy Akademie Betonową 
+- Joseph otwiera Akademie Betonową i bierze udział w orgazmusie, aby porywać osoby z duszami, aby zbudować betony zdolne do magii
+- 

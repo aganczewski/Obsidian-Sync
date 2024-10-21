@@ -1,0 +1,1 @@
+Dowódca policji Betonowa. Współpracuje z [[Joseph Aspdin]]

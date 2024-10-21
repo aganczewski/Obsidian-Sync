@@ -1,0 +1,5 @@
+Zanim Betonowo stało się Betonowem, a Laskowice sięgały wody, w małej wiosce na obrzeżach lasu mieszkała rodzina Aspdinów. Aspdinowie byli przedsiębiorczymi, ciężko pracującymi ludźmi. Sukces ich biznesu cementowego był częściowo wynikiem ich geomańskich umiejętności, które wzmacniały ich produkt.
+
+Thomas i Margaret Aspdin nie prowadzili tego biznesu sami. Wspierali ich dwaj synowie - Joseph i James. Bracia byli sobie bardzo bliscy i rozwijali swoje geomańskie talenty. Josephowi szło to łatwiej, co wywoływało między nimi napięcie. Konflikt ten przerodził się w tragedię, gdy James zaginął w głębinach Laskowic.
+
+Z upływem lat Joseph przewyższył nawet swoich rodziców w umiejętnościach i przejął rodzinny interes. Firma stopniowo się rozrastała, pochłaniając coraz więcej przestrzeni i powoli zajmując oryginalną wioskę. Dekady betonowania ziemi stworzyły fundament pod miasto, które dziś znamy jako Betonowo.

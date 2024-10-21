@@ -1,0 +1,1 @@
+Wytworzone przez [[Zendriada | Zen'driade]]. 

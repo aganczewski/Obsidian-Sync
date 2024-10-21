@@ -1,0 +1,1 @@
+Mieszkała z [[Mycelianie |Mycelianami]], gdy przybłąkał się do nich [[James Aspdin]]. Szybko się w sobie zakochali. Mycelianie wygonili ich z [[]]James czuł się niespełniony przez to, że nie potrafił używać magii jak jego rodzina więc Zendriada poszła do [[Socatra]] i zabrała duże kawałki kory, które zamieniła w [[różdżki]] dla Jamesa. 

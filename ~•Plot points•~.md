@@ -1,0 +1,131 @@
+
+- [x] [[Pierwszy list]] - pakują się i dostają się do Betonowa
+- [x] idą do [[Mieszkanie]], odwiedza ich [[Przewodniczka Cementyna]]. Mówi im, że muszą się pójść zarejestrować u Prof. [[Betoniusz Szpachla]] w [[Akademia Betonowa]] i się zgłosić, żeby dostawać wgl kase na utrzymanie no. 
+- [x] idą do gabinetu Prof [[Betoniusz Szpachla]]. Wita ich z imienia. Wita Luke’a jako Stephano.  każe im razem z Cementyną iść do [[muzeum]] imienia Josepha Aspdina. Zostali wybrani akurat bo Betonowo chce zapoznać się z innymi kulturami i polepszyć pare rzeczy:
+	- [x] [[Baltazar]] ma poznać drinki i wyszkolić lokalnego betona Rokor, który ma wziąć udział w światowych zawodach barmanów
+	- [x] [[Britney]] ma zapoznać się z duchowością Betonów i rozwiązać problem na cmentarzu. Pochowali betonów na cmentarzu i użyli kamiennych nagrobków. Okazało się, że duchy z betonów przejmują kontrolę nad nagrobkami. 
+	- [x] [[Zan]] ma poznać modę i ubiór betonowa oraz zorganizować pare stroi i dołączyć do pokazu mody sam lub ze swoimi zawodnikami
+	- [x] [[Daecon]] ma poznać lokalną scene muzyczną i taneczną i nagrać teledysk w Betonowie, aby pomóc promować Betonowo
+	- [x] Stephano([[Luke]]) ma wydobyć skamieliny i artefakty, które znaleźli podczas kopania w głównej kopalni i zwrócić je do muzeum jak z filmu Diana Bones
+- [x] Cementyna proponuje, że wie jak zacząć. Mogą iść do[[Betoniarka| betoniarki]]. Najpopularniejszy klub. Tam główną gospodarką i szefową jest [[Betonce]], koleżanka Cementyny. Ona może im na pewno pomóc jeśli chodzi kwestie tańca, picia i stroi. Zanim tam pójdą dobrze byłoby się troche wystroić. Jest pare sklepów w[[Galeria Betonowa| galerii]], Mogą kupić pare ciuszków. 
+- [x] Idą do galerii i kupują pare rzeczy. 
+- [x] [[muzeum]] - dowiadują się o kradzieży [[betonator | betonatora]]
+	- [x] [[Luke]] kradnie [[klejnot]]
+	- [x] spotykają [[Betula |Betule]]
+	- [x] w drodze powrotnej ukradni autobus i przygarnęli żłówia Sixpacka
+	- [x] podstawili autobus sąsiadowi - był to [[Wichał Brzoskwiński]]. Został za to zamknięty w więzieniu. 
+	- [x] Znaleźli [[Sixpack |Sixpacka]]
+- [ ] Idą do Betoniarki. 
+	- [x] Przed Betoniarką stoi bramkarz [[Mati]], który jest gnębiony/szkolony przez swojego szefa [[Boss |Bossa]]. Zostają wpuszczeni. Od razu po wejściu do klubu goście znajdują się w “lobby”. W tle bije muzyka klubowa. W lewym skrzydle tego lokalu znajduje się okrągłe pomieszczenie, które zawiera w sobie bar. 
+	- [ ] W barze mogą spotkać:
+		- [x] [[Cemina | Cemine]] i [[Petra|Petre]] - studentki fotografii. W drugiego końca pokoju gracze dostrzegają, że Cemina i Petra się na nich patrzą, Cemina jest entuzjastyczna i chce do nich zagadać, Petra chce zagadać do Daecona, ale się wstydzi. Petra może pomóć Daeconowi z nagrywaniem. 
+		- [x] Mogą zagadać do barmanke - czterorękiego betona z głową, która kręci się 360°. Niesamowicie wydajna w barmanowaniu. 
+			- [ ] W barze mogą zamówić drinki:
+				- [ ] Cementini: Połączenie wytrawnego smaku martini z nutą surowości cementu. Składniki: wódka, martini bianco, likier triple sec, odrobina soku z cytryny i dodatek cementowych kostek lodu.
+				- [ ] Betonowa Moc: Drink o intensywnym smaku, który uderzy w podniebienie jak betonowa ściana. Składniki: bourbon, amaretto, syrop klonowy, kawa espresso i kamienie do schłodzenia.
+				- [x] KamieńKolada: Egzotyczna kolada z dodatkiem kamieni, która zaskoczy Twoje kubki smakowe. Składniki: rum kokosowy, mleko kokosowe, sok ananasowy, syrop z grenadyny i kruszone kamienie do dekoracji.
+				- [x] Piaskowa Fuzja: Orzeźwiający drink z nutą piasku, który przypomni o betonowej przeszłości. Składniki: gin, tonic, sok z limonki, syrop z mango i posypka z kruszonych kamieni.
+				- [ ] Betonowy Mojito: Klasyczny mojito z dodatkiem cementowego twistu. Składniki: biała rum, świeża mięta, sok z limonki, syrop cukrowy, woda gazowana i kostki lodu z cementu.
+	- [x] W klubie gentlemenów znajduje się stół do bilardu i barek gdzie podają whisky, rum i cygara
+		- [x] mogą zagrać w [króla](https://www.reddit.com/r/DnDHomebrew/comments/1c5e29v/king_a_simple_and_exciting_gambling_game_for_dnd/) z [[Betrand|Betrandem]] 
+		- [x] Betrand funduje im gre(są zadłużeni) i zaprasza ich, aby wpadli kiedyś do jego mieszkania w najwyższym wieżowcu Betonowa
+- [x] Betonce czeka na końcu klubu na platformie. Aby się do niej dostać muszą przecisnąć się przez tłum tańczących betonów. DJ nagle krzyczy “D-D-D-D-DANCE OFF”
+- [x] Gracze przebijają się przez tłumy. 
+- [x] Podczas walki z Mentem kula dyskotekowa zatrzymuje się - [[różdżki| różdżka Frostbite]] użyta przez jednego z [[Beton złodziej]]. Kolejna [[różdżki | różdżka magic stone]] użyta aby zestrzelić [[kula dyskotekowa |kulę dyskotekową]] - miss, odbija się i trafia w Menta. Drugi pocisk zestrzeliwuje kule. Ment postrzelony w oko, kamień leży na ziemi gdzieś bardziej z boku w sali, betony próbują uciec z kulą 
+- [x] [[Walka w betoniarce]] -gracze pokonują złodziei, kula uległa częściowego zniszczeniu
+- [x] Betonce chce wiedzieć co stało się Mentowi. Policja przyjeżdża, w tym [[Szeryf Kostka]] i robi przesłuchanie z Betonce
+	- [ ] kamień w twarzy Menta - [arcana check](https://www.dndbeyond.com/spells/magic-stone) - failed
+	- [ ] kamień na podłodze dyskoteki - nie znaleziony
+	- [ ] zamrożony pałąk od kuli disco - [arcana check](http://dnd5e.wikidot.com/spell:frostbite) - nie znaleziony
+	- [x] 2 wyładowane [[różdżki]] z przedramion złodziei - zbadane, wiedzą, że to frostbite. Wiedza, że mają ładunki. Wiedzą, że są sprzedawane na czarnych rynkach, jako szybkie spelle dla osób niemagicznych. 
+	- [x] ochroniarze pokryci [[Zarodniki |zarodnikami]], uśpieni - wiedzą, że są to zarodniki
+	- [ ] tylne drzwi wejściowe otwarte - zamek otwarty - nie zbadali
+- [x] Betonce czeka aż pogotowie zabierze Menta i smutna zabiera kulę do swojej garderoby. - gracze kradną kulę 
+- [x] Cementyna sprawdza co u Betonce
+- [x] Betonce pokłóciła się ze swoim partnerem [[Kameliusz |Kameliuszem]] - gracze to wiedzą
+- [x] Gracze wracają do [[Mieszkanie |mieszkania]] gdzie zaznają [[Betula |Betule]] śpiącego w chillzonie obok pustego pudełka pizzy, które Cementyna przyniosła pierwszego dnia. Jego głowa jest oparta na skorupie [[Sixpack |Sixpacka]]. 
+- [x] gracze niszczą [[kula dyskotekowa |kulę]], zewnętrzna skorupa ma dziurę na wylot i swoją oryginalną szramę. Gracze zniszczyli też mechanizm w środku kuli.
+- [x] gracze testując różdżki rozwalili część dachu domu, w którym mieszkał [[Wichał Brzoskwiński]]
+- [x] [[Joseph Aspdin]] wydaje statement  odnośnie ataku na Betoniarke. Oznajmia, że jak wszyscy wiedzą, że ostatnio ukradziono Betonator, ważny artefakt dla jego rodziny. Inwestygacja trwa nieprzestannie od tego momentu i poszukują sprawców. Teraz musi zgłosić, że miał miejsce kolejny atak na Betonowo w formie incydentu w Betoniarce. Po nim przemawia szef policji Betonowa [[Szeryf Kostka]]. Mówi o proszku o cechach usypiajacych znalezionym na ciałach ochroniarzy betoniarki, nie może ujawnić szczegółów. Szeryf odmawia odpowiedzi. Beton z tłumu pyta czy to prawda, że zamachowcy w betoniarce  Joseph Aspdin zapewnia, że bezpieczeństwa Betonowa jest dla niego najważniejsze. 
+- [x] Gracze próbują sie dowiedzieć skąd jest [[Betula]]. Znajdują jego adres na jego koncie Fornite. Jadą do [[Szara strefa |Szarej strefy]]. Spotykają dwóch gruzów, którzy pokazują im gdzie jest adres Betuli i gdzie jest Klastor. Dowiadują się, że Klastor kontroluje Szarą strefe i rozprowadza [[Boksyt]]. Britney wysyła swojego unseen servant, aby nagrał rozmowę gruzów czekających przed miejscówką Klastora. Gracze dowiadują się, że Klastor odcina im palce. Dotarli do miejsca zamieszkania Betuli - rury wychodzącej z [[Fabryka Betonów|Fabryki betonów]]. Poznają [[Solar|tate Betuli]]. Zabierają Betule, jego tate i jego komputer do swojego mieszkania. 
+- [x] [[Baltazar]] został zatrudniony jako ochroniarz w [[Betoniarka |Betoniarce]]. Musi omówić z nią szczegóły zatrudnienia. 
+	- [x] Betonce i Boss przeprowadzają wywiad z Baltazarem. Betonce pyta się Baltazara co chce robić. Może zostać barmanem lub ochroniarzem. Może zacząć od początku przyszłego miesiąca(jak zaczyna się rok).
+	- [x] Barmanka z Betoniarki zagaduje do Baltazarowi i wręcza mu przepis na [[Młot pneumatyczny(Smocza pięść)]]. 
+	- [x] Gracze próbują dostać kontakt do [[Kameliusz |Kameliusz]]. Osoba, które mają do niego kontakt to [[Betonce]]. [[Przewodniczka Cementyna |Cementyna]] mniej więcej kojarzy gdzie on mieszka. 
+		- [x] [[Britney]] wróży Betonce z kart i przekonuję ją, że musi naprawić swoją relacje z [[Kameliusz |Kameliuszem]]. Gracze obiecali zabrać [[kula dyskotekowa |kule]] do Kameliusza aby on ją naprawił. 
+- [x] [[Daecon]] pewnej nocy ma sen, w którym leci przez Astral plane. Zza jego pola widzenia czuje dotyk kobiecej dłoni z mocną magicnzą aurą. Jego oczom ukazuje się piękna, kobieta z motylimi skrzykładmi i jelenimi rogami, która uśmiecha się i ciągnie go za kołnież przez pustke. Nagle otacza ich piękny las gdzie otaczają ich drzewa z powykrzywianych kształtach, wielkie grzyby. Kobieta ciągnie Daecona w kieruku mchowego podłoża gdzie całuje sią kolejne leśne stworzenia różnych płci. Można to opisać tylko orgią. Coraz więcej ciał zaczyna dotykać Daecona. Wyczuwalna jest poteżne stężenie magii. Daecon czuje jak jest umysł jest przeładowany ilością magii. Śmiechy postac dookoła robią się coraz głośniejsze aż w końcu Daecon jest wybudzony ze snu. Znajduje sie an dachu w środku nocy. W oddali widzi las Laskowice. W jego pokoju zostały silne ślady magii. 
+- [ ] Gracze idą do biblioteki. Mogą znaleźć tam:
+	- [x] [[Opis życia Aspdinów]]
+	- [x] [[Życie betonów obok swojego stwórcy - filozoficzne i religijne rozważania]] 
+	- [ ] [[Techniki szpachlowania - Ara Barbara o betonowej modzie]]
+	- [ ] [[Betony i Magia - Paradoks Zasilania Magią i Ograniczeń Biologicznych]]
+	- [x] [[Poradnik zajmowania się betonem]]
+	- [x] [[Klejnoty jak biżuteria - Ara Barbara]]
+	- [x] [[Wydobywanie kamieni szlachetnych]]
+ - [x] Cementyna daje im znać, że od przyszłego tygodnia zaczynają rok akademicki i podsyła im [[plan zajęć]]. 
+- [x] Gracze podbijają do mieszkania Kameliusza zostają zaatakowani przez Gruzy. Jest [[Walka w szarej strefie]]. Podczas walki pomaga im Kameliusz. 
+- [ ] [[Kameliusz]] przyjmuje ich do siebie. 
+	- [x] Domyślił się, że to gracze walczyli w betoniarce. Wyróżniają się w betonowie, szczególnie po takiej akcji. Ostrzega ich, że powinni uważać, przyciągają dużo uwagi. Nie wie czy zauważyli, ale w Betonowie jest dosyć jednolicie. 
+	- [x] Kameliusz eksperymentuje z magią dla Betonów. Wszystkie jego badania i sprzęt zostały ukradzione ostatnio podczas włamania. Może byli po [[Rekawica Kameliusza |rękawice]]. 
+	- [x] Mówi, że w jego mieszkaniu było włamanie, gdzie ukradziono wszystkie jego badania i eksperymenty. Pokazuje graczą nagranie, gdzie widzą betony, które wyglądają jak te z betoniarki i są tam też duże gruzy. Kameliusz mówi, że widział takie duże gruzy przy Klastorze. 
+	- [ ] Interesuje się ostatnimi akcjami w Betonowie i twierdzi, że stoi za tym jakaś organizacja. Teraz, gdy widzi ciche betony współpracuje z gruzamy Klastora jest pewien, że Klastor macza w tym palce. Zapewne tam wszystko zabrali. Ma zamiar odzyskać swój sprzęt i badania bo to jego praca życia.  
+	- [x] Daje graczą [[Murarze Melodii |mixtape]] dla [[Betonce]]
+	- [x] Kameliusz mówi, że gruzy to betony, które miały jakiś defekt podczas produkcji. Są przez to w dużym bólu i stworzył się czarny rynek boksytu - stabilizatora betonu. Liderem tego jest Klastor. 
+- [x] Gracze przekazują mixtape do [[Betonce]].
+	- [x] [[Betonce]] wznawia kontakt do [[Kameliusz |Kameliusza]]
+	- [x] Pomysł zorganizowania koncertu [[Murarze Melodii]] w [[Betoniarka |Betoniarce]] na rozpoczęcie roku akademickiego. Pisze z Kameliuszem o tym. 
+	- [x] [[Zan]] imponuje [[Betonce]] robiąc fikołka w powietrzu - Betonce może chce zrobić jakiś show pokazowym z Zanem 
+- [x]  [[Kameliusz]] zamieszkuje w domu [[Wichał Brzoskwiński |Wichała Brzoskwińskiego]] 
+	- [x] [[Kameliusz]] prosi graczy o pomoc w odzyskaniu swoich rzeczy od [[Klastor |Klastora]].
+- [ ]  Plan do Klastora 
+Kameliusz ma wejsc
+rekawica z Daeconem
+Baltazar miesien w srodku
+Britney do środka
+Daecon z Lukiem na niewiddze w środku(przeszukać pomieszczenia)
+Zan na czatach
+- [ ] Przed bazą Klastora stoi jeden mały gruz bez palców, który przyszedł po [[Boksyt]]. Prosi kogoś o pieniądze, najlepiej [[Luke |Luke'a]]. Czeka na swoją kolej i wchodzi do Klastora, gdy z pokoju wychodzi postać ubrana na szaro z głębokim kapturem, która szybko usuwa się z okolicy.
+	- [ ] DC15 - zauważają, że to [[Petra]] ona szybko ucieka
+	- [ ] Jeśli dali mu kase to mały gruz wychodzi cały od Klastora. 
+	- [ ] Jeśli nie dali mu kasy mały gruz umiera u Klastora.
+- [ ] Przed wejściem do domu czeka dwóch ochroniarzy, pytają się po co przyszli gracze i Kameliusz
+	- [ ] Kameliusz mówi, że przyszli zobaczyć czy są jakieś ciekawe rzeczy do kupienia
+	- [ ] Ochroniarz wchodzi do środka i przekazuje informacje do Klastora, po chwili zostają wpuszczeni
+	- [ ] W ciemnej sali cichej sali, za kratą siedzi Klastor(jak ksiądz w konfesjonale).
+	- [ ] Klastor wita Kameliusza i graczy
+	- [ ] Kameliusz próbuje wynegocjować, żeby Klastor oddał mu jego rzeczy. Klastor może się przydać, że zabrał jego rzeczy, ale na pewno mu ich nie odda. 
+	- [ ] Klastor mówi, że pójdzie po coś na zaplecze. Ochroniarze dostają rozkaz porwać Kameliusza i spółke i zamknąć ich w podziemiach. 
+- [ ] Na zapleczu
+	- [ ] Kręci się [[Murin]] wraz z kilkoma ochroniarzami.          
+- [ ] Weszli do Klastora
+	- [ ] [[Klastor]] zbiera palce, które przyczepia sobie do rąk, aby lepiej grać na pianinie
+- [ ] negocjacje z klastorem
+- [ ] zostają uwięzieni(albo ochroniarze albo zapadająca się podłoga)
+- [ ] trafiają do celi
+- [ ] spotykają wichała
+- [ ] Kameliusza z nimi nie ma, został zabrany
+- [ ] uciekają przez kibel 
+- [ ] przez kanalizacje trafiają do innej części bazy
+- [ ] troche mały combat
+- [ ] znajdują dokumenty o [[Operacja Fibrobeton]]
+- [ ] klastor ucieka motorówka z kameliuszem
+- [ ] wichal Brzoskwinski wskakuje do wody i ciągnie motorówkę 
+- [ ] POŚCIG
+- [ ] Betony Naczynia są niewystarczalne, nie potrafią zachować w sobie magii. Potrzeba lepszych naczyń - uczniów orgazmusa
+
+
+---
+	TIMESKIP TO ROKU SZKOLNEGO
+- [ ] [[Przewodniczka Cementyna]] umawia się z graczami w [[Akademia Betonowa |Akademii]] na rozpoczęcie roku szkolnego
+	- [ ] Gracze spotykają się z Cementyną w głównej sali. Razem z nimi rok zaczyna około 50 innych betonów. 
+	- [ ] Na salę razem z ochroniarzami(wyglądają normalnie) wchodzi [[Joseph Aspdin]] i robi przemowę na rozpoczęcie roku akademickiego. Opowiada o tym jak pierwszy raz betony wyraziły chęć nauki i wiedział wtedy, że stworzył coś niesamowitego. Tak samo jak pierwsze betony tak i te mają się uczyć. 
+	- [ ] Wita uczniów z orgazmusa. Przypomina betonom, żeby traktowali graczy z szacunkiem bo sam Joseph też jest z krwi i kości. 
+	- [ ] 
+- [ ] Gracze podejrzewają członków [[Murarze Melodii |Murarzy Melodii]] o podstęp wobec [[Kameliusz |Kameliusza]].
+- [ ] Gracze chcą zagadać do [[Betonce]], żeby zrobić koncert [[Murarze Melodii |Murarzy Melodii]] w [[Betoniarka |Betoniarce]]. 
+- [ ] [[Daecon]] i [[Petra]] w jej mieszkaniu spotykają się na randce, nagle jej się przypomina o tym, że nie wzięła boksytu, idzie na górę i zamienia się w umięśnionego potwora, okazuje się że jest gruzem - nieudanym betonem wrestlingowym używanym do rozrywki. 
+	- [ ] gdy Daecon wchodzi do jej pokoju widzi jak Petra usilnie próbuje znaleźć coś w swojej kosmetyczce jednak nie jest w stanie znaleźć boksytu i zamienia się w gruza
+	- [ ] Walke można zakończyć albo pokonując ją albo dając jej boksyt.
+	- [ ] po walce przeprasza Daecona i tłumaczy mu swoją przypadłość 
+- [ ] 
+- [ ] Gracze mają idywidualny tok nauczania. Wszystkie zajęcia są prowadzone przez [[Betoniusz Szpachla |Profesora Szpachle]]. 

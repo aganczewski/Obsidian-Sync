@@ -1,0 +1,1 @@
+Najmocniejszy z drinków. Składający się z 38(37 plus święta woda Ki) różnych mocnych alkoholi, które podczas mixowania są mieszane, wtrząśnięte i filtrowany. Można zrobić raz na long resta, tylko w barze. UŻYWAĆ OSTROŻNIE.  

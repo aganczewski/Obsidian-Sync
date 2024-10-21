@@ -1,0 +1,1 @@
+Pierwsza kropla lub Sandarak - to święty artefakt [[Mycelianie |Mycelianów]] pochodzący z [[Socatra]]

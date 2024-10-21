@@ -1,0 +1,31 @@
+- Losowe imiona do wykorzystania:
+- Betar
+- Stalor
+- Gravix
+- Solidus
+- Pavina
+- Urbanor
+- Cementa
+- Kalceus - Betula ma jego karte bankową
+- Constructa
+- Bricor
+- Betronius
+- Kamiliusz
+- Quarria
+- Betka
+- Betina
+- Kamieniarz
+- Betta
+- Betonika
+- Betonius
+- Cementina
+- Kamienek
+- Żwirownik
+- Stalbet
+- Rzutnik
+- Betonka
+- Mieszacz
+- Tynkarka
+- Stalownik
+- Murek
+- Betonina

@@ -1,0 +1,1 @@
+Czysty błękitny klejnot ukradziony przez [[Luke |Luka]] z [[muzeum]]. Może być użyty w rekonstrukcji [[betonator |Betonatora]].  

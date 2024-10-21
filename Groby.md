@@ -1,0 +1,3 @@
+[[Mycelianie |Myceliańskie]] dusze pozyskane z żywicy [[Socatra]] zebrane przez [[Joseph Aspdin |Josepha Aspdina]] uciekają z rozpadających się ciał betonów i wnikają w nagrobki. Razem z zmrokiem budzą się i krzyczą w terrorze jakim jest ich egzystencja. Nie mogą się ruszać. Chcą być uwolnione z ich cierpienia. 
+
+Jeśli nagrobki zostaną zniszczone duszę zaczynają szaleć i opętują najbliższy kamień nadający się do przejęcia. Gracze mogą zapewnić im nowe "naczynie" w formie szlachetnego kamienia. Jeśli tego nie zrobią dusze wracają wściekłe do swoich ciał i powstają z grobów w formie [[Opętany Beton |Opętanych Betonów]]. 

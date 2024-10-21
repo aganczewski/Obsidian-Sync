@@ -1,0 +1,1 @@
+Matka [[Zan |Zana]]. Kuzynka [[Wichał Brzoskwiński |Wichała]], którego wciągnęła w oszustwo marketingowe. 
