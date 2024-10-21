@@ -88,7 +88,7 @@ Zan na czatach
 	- [x] DC15 - zauważają, że to [[Petra]] ona szybko ucieka
 	- [x] Jeśli dali mu kase to mały gruz wychodzi cały od Klastora. Jeśli nie dali mu kasy mały gruz umiera u Klastora.
 - [x] Przed wejściem do domu czeka dwóch ochroniarzy, pytają się po co przyszli gracze i Kameliusz
-	- [x] Ochroniarz [[Żwirek]] przegadany
+	- [x] Ochroniarz [[Żwirek]] przegadany, później 
 	- [x] Drugi ochroniarz zastraszony przez Baltazara
 	- [x] Baltazar, Britney, Zan, Kameliusz wpadają w pułapkę i lądują w klatkach
 	- [x] Kameliusz zostaje od razu zabrany do portu przy kanalizacji
