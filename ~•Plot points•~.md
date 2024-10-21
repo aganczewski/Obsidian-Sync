@@ -78,14 +78,14 @@
 - [x]  [[Kameliusz]] zamieszkuje w domu [[Wichał Brzoskwiński |Wichała Brzoskwińskiego]] 
 	- [x] [[Kameliusz]] prosi graczy o pomoc w odzyskaniu swoich rzeczy od [[Klastor |Klastora]].
 - [ ] Plan do Klastora 
-Kameliusz ma wejsc
-rekawica z Daeconem
-Baltazar miesien w srodku
-Britney do środka
-Daecon z Lukiem na niewiddze w środku(przeszukać pomieszczenia)
-Zan na czatach
-- [ ] Przed bazą Klastora stoi jeden mały gruz bez palców, który przyszedł po [[Boksyt]]. Prosi kogoś o pieniądze, najlepiej [[Luke |Luke'a]]. Czeka na swoją kolej i wchodzi do Klastora, gdy z pokoju wychodzi postać ubrana na szaro z głębokim kapturem, która szybko usuwa się z okolicy.
-	- [ ] DC15 - zauważają, że to [[Petra]] ona szybko ucieka
+	- [x] Kameliusz ma wejsc
+	- [x] rekawica z Daeconem
+	- [x] Baltazar miesien w srodku
+	- [x] Britney do środka
+	- [x] Daecon z Lukiem na niewiddze w środku(przeszukać pomieszczenia)
+	- [x] Zan na czatach
+- [x] Przed bazą Klastora stoi jeden mały gruz bez palców, który przyszedł po [[Boksyt]]. Prosi kogoś o pieniądze, najlepiej [[Luke |Luke'a]]. Czeka na swoją kolej i wchodzi do Klastora, gdy z pokoju wychodzi postać ubrana na szaro z głębokim kapturem, która szybko usuwa się z okolicy.
+	- [x] DC15 - zauważają, że to [[Petra]] ona szybko ucieka
 	- [ ] Jeśli dali mu kase to mały gruz wychodzi cały od Klastora. 
 	- [ ] Jeśli nie dali mu kasy mały gruz umiera u Klastora.
 - [ ] Przed wejściem do domu czeka dwóch ochroniarzy, pytają się po co przyszli gracze i Kameliusz
