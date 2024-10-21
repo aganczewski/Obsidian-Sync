@@ -95,7 +95,7 @@ Zan na czatach
 	- [x] Daecon i Luke wbijają do budynku przez krate w dachu, wypuszczają graczy
 	- [x] Gracze spotykają [[Wichał Brzoskwiński |Wichała]]
 	- [l] Combat Klastor 1
-		- [!] [[Vas]] 
+		- [!] [[Tenery]] biją na alarm 
 		- [!] Klastor wpada przed dziure w suficie, DOBRZE OPISAĆ PRZEDNIEGO KLASTORA 
 	- [ ] znajdują notatki z rozkazami - opis, że dostali polecenie porwać Kameliusza wcześniej, bo jest potrzebny do planów organizacji  
 	- [ ] klastor ucieka motorówka z kameliuszem
