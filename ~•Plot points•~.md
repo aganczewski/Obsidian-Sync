@@ -95,7 +95,7 @@ Zan na czatach
 	- [x] Daecon i Luke wbijają do budynku przez krate w dachu, wypuszczają graczy
 	- [x] Gracze spotykają [[Wichał Brzoskwiński |Wichała]]
 	- [l] Combat Klastor 1
-	- [ ] znajdują dokumenty o [[Operacja Fibrobeton]]
+	- [ ] znajdują notatki z rozkazami - opis, że dostali polecenie porwać Kameliusza wcześniej, bo jest potrzebny do planów organizacji  
 	- [ ] klastor ucieka motorówka z kameliuszem
 	- [ ] wichal Brzoskwinski aktywuje druid formę szczura i ciągnie motorówkę 
 	- [ ] POŚCIG
