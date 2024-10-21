@@ -85,9 +85,8 @@ Britney do środka
 Daecon z Lukiem na niewiddze w środku(przeszukać pomieszczenia)
 Zan na czatach
 - [ ] Przed bazą Klastora stoi jeden mały gruz bez palców, który przyszedł po [[Boksyt]]. Prosi kogoś o pieniądze, najlepiej [[Luke |Luke'a]]. Czeka na swoją kolej i wchodzi do Klastora, gdy z pokoju wychodzi postać ubrana na szaro z głębokim kapturem, która szybko usuwa się z okolicy.
-	- [ ] DC15 - zauważają, że to [[Petra]] ona szybko ucieka
-	- [ ] Jeśli dali mu kase to mały gruz wychodzi cały od Klastora. 
-	- [ ] Jeśli nie dali mu kasy mały gruz umiera u Klastora.
+	- [x] DC15 - zauważają, że to [[Petra]] ona szybko ucieka
+	- [x] Jeśli dali mu kase to mały gruz wychodzi cały od Klastora. Jeśli nie dali mu kasy mały gruz umiera u Klastora.
 - [ ] Przed wejściem do domu czeka dwóch ochroniarzy, pytają się po co przyszli gracze i Kameliusz
 	- [ ] Kameliusz mówi, że przyszli zobaczyć czy są jakieś ciekawe rzeczy do kupienia
 	- [ ] Ochroniarz wchodzi do środka i przekazuje informacje do Klastora, po chwili zostają wpuszczeni
@@ -111,7 +110,7 @@ Zan na czatach
 - [ ] klastor ucieka motorówka z kameliuszem
 - [ ] wichal Brzoskwinski wskakuje do wody i ciągnie motorówkę 
 - [ ] POŚCIG
-- [ ] Betony Naczynia są niewystarczalne, nie potrafią zachować w sobie magii. Potrzeba lepszych naczyń - uczniów orgazmusa
+- [I] Betony Naczynia są niewystarczalne, nie potrafią zachować w sobie magii. Potrzeba lepszych naczyń - uczniów orgazmusa
 
 
 ---
