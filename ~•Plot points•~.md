@@ -93,15 +93,15 @@ Zan na czatach
 	- [x] Baltazar, Britney, Zan, Kameliusz wpadają w pułapkę i lądują w klatkach
 	- [x] Kameliusz zostaje od razu zabrany do portu przy kanalizacji
 	- [x] Daecon i Luke wbijają do budynku przez krate w dachu, wypuszczają graczy
-	- [x] Gracze spotykają [[Wichał Brzoskwiński]]
-
-	- [ ] troche mały combat
+	- [x] Gracze spotykają [[Wichał Brzoskwiński |Wichała]]
+	- [l] Combat Klastor 1
 	- [ ] znajdują dokumenty o [[Operacja Fibrobeton]]
 	- [ ] klastor ucieka motorówka z kameliuszem
-	- [ ] wichal Brzoskwinski wskakuje do wody i ciągnie motorówkę 
+	- [ ] wichal Brzoskwinski aktywuje druid formę szczura i ciągnie motorówkę 
 	- [ ] POŚCIG
 - [I] Betony Naczynia są niewystarczalne, nie potrafią zachować w sobie magii. Potrzeba lepszych naczyń - uczniów orgazmusa
 - [I] Klastor ma na plecach bliźniaka syjamskiego, który jest poważny i ma niski głos. Jego ręce to spluwy, strzela palcami zebranymi z betonów. Palce są przyczepione w paskach dokoła ciała Klastora 
+- [I] Wichał jest druidem, może nauczyć Zana czegoś druidowego
 
 ---
 	TIMESKIP TO ROKU SZKOLNEGO
