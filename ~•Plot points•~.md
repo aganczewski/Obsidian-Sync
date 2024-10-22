@@ -101,6 +101,7 @@
 		- [ ] Loot:
 			- [ ] [[Pipe of smoke monsters]] 
 			- [ ] 200 golda
+			- [ ] [[Bag of Holding]]
 	- [ ] znajdują notatki z rozkazami - opis, że dostali polecenie porwać Kameliusza wcześniej, bo jest potrzebny do planów organizacji  
 	- [ ] klastor ucieka motorówka z kameliuszem
 	- [ ] wichal Brzoskwinski aktywuje druid formę szczura i ciągnie motorówkę 
