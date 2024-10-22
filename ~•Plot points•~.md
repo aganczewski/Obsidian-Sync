@@ -98,7 +98,9 @@
 		- [!] [[Tenery]] biją na alarm 
 		- [!] Klastor wpada przed dziure w suficie, 
 			- [ ] DOBRZE OPISAĆ PRZEDNIEGO KLASTORA. Z jego pleców wychodzi głos, który karze zdjąć płaszcz, bo "chce im spojrzeć w oczy" Ukazuje się tył KLASTORA. Opisać dobrze tył Klastora, pasy palców betonów. Przednią częścią trzyma przytomnego Kameliusza. Tył Klastora wydaje polecenie, aby "złapać ich". Bierze Kameliusza i idzie na dół. 
-			- [ ] 
+		- [ ] Loot:
+			- [ ] [[Pipe of smoke monsters]] 
+			- [ ] 200 golda
 	- [ ] znajdują notatki z rozkazami - opis, że dostali polecenie porwać Kameliusza wcześniej, bo jest potrzebny do planów organizacji  
 	- [ ] klastor ucieka motorówka z kameliuszem
 	- [ ] wichal Brzoskwinski aktywuje druid formę szczura i ciągnie motorówkę 
