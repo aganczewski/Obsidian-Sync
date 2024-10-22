@@ -84,34 +84,22 @@ Baltazar miesien w srodku
 Britney do środka
 Daecon z Lukiem na niewiddze w środku(przeszukać pomieszczenia)
 Zan na czatach
-- [ ] Przed bazą Klastora stoi jeden mały gruz bez palców, który przyszedł po [[Boksyt]]. Prosi kogoś o pieniądze, najlepiej [[Luke |Luke'a]]. Czeka na swoją kolej i wchodzi do Klastora, gdy z pokoju wychodzi postać ubrana na szaro z głębokim kapturem, która szybko usuwa się z okolicy.
+- [ ] Przed wejściem do chaty Klastora jest kolejka gruzów, którzy czekają na swoją kolej. Wchodzą pojedyńczo po [[Boksyt]]. Po chwili czekania z pomieszczenia wychodzi postać i szybko oddala się od miejsca. Gracze mogą rzucić na percepcje:
 	- [ ] DC15 - zauważają, że to [[Petra]] ona szybko ucieka
-	- [ ] Jeśli dali mu kase to mały gruz wychodzi cały od Klastora. 
-	- [ ] Jeśli nie dali mu kasy mały gruz umiera u Klastora.
 - [ ] Przed wejściem do domu czeka dwóch ochroniarzy, pytają się po co przyszli gracze i Kameliusz
 	- [ ] Kameliusz mówi, że przyszli zobaczyć czy są jakieś ciekawe rzeczy do kupienia
 	- [ ] Ochroniarz wchodzi do środka i przekazuje informacje do Klastora, po chwili zostają wpuszczeni
 	- [ ] W ciemnej sali cichej sali, za kratą siedzi Klastor(jak ksiądz w konfesjonale).
-	- [ ] Klastor wita Kameliusza i graczy
+	- [ ] Klastor wita Kameliusza i jego kompanów
 	- [ ] Kameliusz próbuje wynegocjować, żeby Klastor oddał mu jego rzeczy. Klastor może się przydać, że zabrał jego rzeczy, ale na pewno mu ich nie odda. 
 	- [ ] Klastor mówi, że pójdzie po coś na zaplecze. Ochroniarze dostają rozkaz porwać Kameliusza i spółke i zamknąć ich w podziemiach. 
 - [ ] Na zapleczu
-	- [ ] Kręci się [[Murin]] wraz z kilkoma ochroniarzami.          
-- [ ] Weszli do Klastora
-	- [ ] [[Klastor]] zbiera palce, które przyczepia sobie do rąk, aby lepiej grać na pianinie
-- [ ] negocjacje z klastorem
-- [ ] zostają uwięzieni(albo ochroniarze albo zapadająca się podłoga)
-- [ ] trafiają do celi
-- [ ] spotykają wichała
-- [ ] Kameliusza z nimi nie ma, został zabrany
-- [ ] uciekają przez kibel 
-- [ ] przez kanalizacje trafiają do innej części bazy
-- [ ] troche mały combat
-- [ ] znajdują dokumenty o [[Operacja Fibrobeton]]
-- [ ] klastor ucieka motorówka z kameliuszem
-- [ ] wichal Brzoskwinski wskakuje do wody i ciągnie motorówkę 
-- [ ] POŚCIG
-- [ ] Betony Naczynia są niewystarczalne, nie potrafią zachować w sobie magii. Potrzeba lepszych naczyń - uczniów orgazmusa
+	- [ ] Kręci się [[Murin]] wraz z kilkoma ochroniarzami.            
+
+Pokój Klastora
+
+- [ ] pod graczami otwiera się podłoga, wpadają do podziemi gdzie są zarodniki
+- [ ] w celi jest Wichała Brzoskwinski, który gwizdze babski świat 
 
 ---
 	TIMESKIP TO ROKU SZKOLNEGO
