@@ -77,41 +77,37 @@
 	- [x] [[Zan]] imponuje [[Betonce]] robiąc fikołka w powietrzu - Betonce może chce zrobić jakiś show pokazowym z Zanem 
 - [x]  [[Kameliusz]] zamieszkuje w domu [[Wichał Brzoskwiński |Wichała Brzoskwińskiego]] 
 	- [x] [[Kameliusz]] prosi graczy o pomoc w odzyskaniu swoich rzeczy od [[Klastor |Klastora]].
-- [ ]  Plan do Klastora 
-Kameliusz ma wejsc
-rekawica z Daeconem
-Baltazar miesien w srodku
-Britney do środka
-Daecon z Lukiem na niewiddze w środku(przeszukać pomieszczenia)
-Zan na czatach
-- [ ] Przed bazą Klastora stoi jeden mały gruz bez palców, który przyszedł po [[Boksyt]]. Prosi kogoś o pieniądze, najlepiej [[Luke |Luke'a]]. Czeka na swoją kolej i wchodzi do Klastora, gdy z pokoju wychodzi postać ubrana na szaro z głębokim kapturem, która szybko usuwa się z okolicy.
-	- [ ] DC15 - zauważają, że to [[Petra]] ona szybko ucieka
-	- [ ] Jeśli dali mu kase to mały gruz wychodzi cały od Klastora. 
-	- [ ] Jeśli nie dali mu kasy mały gruz umiera u Klastora.
-- [ ] Przed wejściem do domu czeka dwóch ochroniarzy, pytają się po co przyszli gracze i Kameliusz
-	- [ ] Kameliusz mówi, że przyszli zobaczyć czy są jakieś ciekawe rzeczy do kupienia
-	- [ ] Ochroniarz wchodzi do środka i przekazuje informacje do Klastora, po chwili zostają wpuszczeni
-	- [ ] W ciemnej sali cichej sali, za kratą siedzi Klastor(jak ksiądz w konfesjonale).
-	- [ ] Klastor wita Kameliusza i graczy
-	- [ ] Kameliusz próbuje wynegocjować, żeby Klastor oddał mu jego rzeczy. Klastor może się przydać, że zabrał jego rzeczy, ale na pewno mu ich nie odda. 
-	- [ ] Klastor mówi, że pójdzie po coś na zaplecze. Ochroniarze dostają rozkaz porwać Kameliusza i spółke i zamknąć ich w podziemiach. 
-- [ ] Na zapleczu
-	- [ ] Kręci się [[Murin]] wraz z kilkoma ochroniarzami.          
-- [ ] Weszli do Klastora
-	- [ ] [[Klastor]] zbiera palce, które przyczepia sobie do rąk, aby lepiej grać na pianinie
-- [ ] negocjacje z klastorem
-- [ ] zostają uwięzieni(albo ochroniarze albo zapadająca się podłoga)
-- [ ] trafiają do celi
-- [ ] spotykają wichała
-- [ ] Kameliusza z nimi nie ma, został zabrany
-- [ ] uciekają przez kibel 
-- [ ] przez kanalizacje trafiają do innej części bazy
-- [ ] troche mały combat
-- [ ] znajdują dokumenty o [[Operacja Fibrobeton]]
-- [ ] klastor ucieka motorówka z kameliuszem
-- [ ] wichal Brzoskwinski wskakuje do wody i ciągnie motorówkę 
-- [ ] POŚCIG
-- [ ] Betony Naczynia są niewystarczalne, nie potrafią zachować w sobie magii. Potrzeba lepszych naczyń - uczniów orgazmusa
+- [b]  Plan do Klastora 
+- Kameliusz ma wejsc
+- rekawica z Daeconem
+- Baltazar miesien w srodku
+- Britney do środka
+- Daecon z Lukiem na niewiddze w środku(przeszukać pomieszczenia)
+- Zan na czatach
+- [x] Przed bazą Klastora stoi jeden mały gruz bez palców, który przyszedł po [[Boksyt]]. Prosi kogoś o pieniądze, najlepiej [[Luke |Luke'a]]. Czeka na swoją kolej i wchodzi do Klastora, gdy z pokoju wychodzi postać ubrana na szaro z głębokim kapturem, która szybko usuwa się z okolicy.
+	- [x] DC15 - zauważają, że to [[Petra]] ona szybko ucieka
+	- [x] Jeśli dali mu kase to mały gruz wychodzi cały od Klastora. Jeśli nie dali mu kasy mały gruz umiera u Klastora.
+- [x] Przed wejściem do domu czeka dwóch ochroniarzy, pytają się po co przyszli gracze i Kameliusz
+	- [x] Ochroniarz [[Żwirek]] przegadany, później 
+	- [x] Drugi ochroniarz zastraszony przez Baltazara
+	- [x] Baltazar, Britney, Zan, Kameliusz wpadają w pułapkę i lądują w klatkach
+	- [x] Kameliusz zostaje od razu zabrany do portu przy kanalizacji
+	- [x] Daecon i Luke wbijają do budynku przez krate w dachu, wypuszczają graczy
+	- [x] Gracze spotykają [[Wichał Brzoskwiński |Wichała]]
+	- [l] Combat Klastor 1
+		- [!] [[Tenery]] biją na alarm 
+		- [!] Klastor wpada przed dziure w suficie, 
+			- [ ] DOBRZE OPISAĆ PRZEDNIEGO KLASTORA. Z jego pleców wychodzi głos, który karze zdjąć płaszcz, bo "chce im spojrzeć w oczy" Ukazuje się tył KLASTORA. Opisać dobrze tył Klastora, pasy palców betonów. Przednią częścią trzyma przytomnego Kameliusza. Tył Klastora wydaje polecenie, aby "złapać ich". Bierze Kameliusza i idzie na dół. 
+			- [ ] 
+	- [ ] znajdują notatki z rozkazami - opis, że dostali polecenie porwać Kameliusza wcześniej, bo jest potrzebny do planów organizacji  
+	- [ ] klastor ucieka motorówka z kameliuszem
+	- [ ] wichal Brzoskwinski aktywuje druid formę szczura i ciągnie motorówkę 
+	- [ ] POŚCIG
+
+- [I] Betony Naczynia są niewystarczalne, nie potrafią zachować w sobie magii. Potrzeba lepszych naczyń - uczniów orgazmusa
+- [I] Klastor ma na plecach bliźniaka syjamskiego, który jest poważny i ma niski głos. Jego ręce to spluwy, strzela palcami zebranymi z betonów. Palce są przyczepione w paskach dokoła ciała Klastora 
+- [I] Wichał jest druidem, może nauczyć Zana czegoś druidowego
+- [I] [[Zarodniki]] został znalezione podczas kopania pod Laskowicami, pochodzą z grzybni [[Mycelianie |Mycelianów]] 
 
 ---
 	TIMESKIP TO ROKU SZKOLNEGO
