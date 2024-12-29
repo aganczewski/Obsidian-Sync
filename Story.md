@@ -1,2 +1,2 @@
-Ostatnio próbowaliście odzyskać notatki i rzeczy Kameliusza. Pokonaliście betony w podziemianich kryjówki Klastora. Klastor wkorzystał zamieszanie izWichał Brzoskwiński chowa swój kostur i zarzuca swoją grzywę do tyłu. Mówi do was:
+Ostatnio próbowaliście odzyskać notatki i rzeczy Kameliusza. Z pomocą Wichała Brzoskwińskiego pokonaliście betony w podziemianich kryjówki Klastora. Klastor wykorzystał zamieszanie i zabrał nieprzytomnego Kameliusz głębiej do kryjówki. Wichał Brzoskwiński chowa swój kostur i zarzuca swoją grzywę do tyłu. Mówi do was:
 - 
