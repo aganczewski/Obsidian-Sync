@@ -1,1 +1,1 @@
-Wichał Brzoskwiński 
+Wichał Brzoskwiński chowa swój kostur i zarzuca swoją grzywę do tyłu. 
