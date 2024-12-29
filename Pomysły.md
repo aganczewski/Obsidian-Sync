@@ -1,4 +1,11 @@
 
+DO GRY: zamiast voice actingu zrobić non-voicy do kart, podobnie jak dźwięki poszczególnych pokemonów 
+
+wichal Brzoskwinski jest z rady druidów 
+"Należe do rady druidów - jest nas troje"
+
+
+
 Klastor reseqrchuje czy betony mogą używać magii
 
 
