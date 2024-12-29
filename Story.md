@@ -1,2 +1,2 @@
 Ostatnio próbowaliście odzyskać notatki i rzeczy Kameliusza. Z pomocą Wichała Brzoskwińskiego pokonaliście betony w podziemianich kryjówki Klastora. Klastor wykorzystał zamieszanie i zabrał nieprzytomnego Kameliusz głębiej do kryjówki. Wichał Brzoskwiński chowa swój kostur i zarzuca swoją grzywę do tyłu. Mówi do was:
-- Miałem nadzieje, że do tego nie dojdzie. 
+- Miałem nadzieje, że do tego nie dojdzie. Wiedziałem, że Klastor nie szykuje niczego dobrego. 
