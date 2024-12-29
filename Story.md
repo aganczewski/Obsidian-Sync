@@ -1,2 +1,2 @@
-Pokonaliście betony w podziemianich kryjówki Klastora. Wichał Brzoskwiński chowa swój kostur i zarzuca swoją grzywę do tyłu. Mówi do was:
+Dostaliście się do podziemi Pokonaliście betony w podziemianich kryjówki Klastora. Wichał Brzoskwiński chowa swój kostur i zarzuca swoją grzywę do tyłu. Mówi do was:
 - 
