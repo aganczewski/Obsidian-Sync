@@ -1,0 +1,1 @@
+Pokonaliście 
