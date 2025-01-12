@@ -1,1 +1,1 @@
-Pokonaliście przydupasów Klastora oraz dołączył do was Wichał Brzowskwiński. Rozglądając się po pomieszczeniu 
+Pokonaliście przydupasów Klastora oraz dołączył do was Wichał Brzowskwiński. Rozglądając się po pomieszczeniu - gęsty pył Boksytu w powietrzu. 
