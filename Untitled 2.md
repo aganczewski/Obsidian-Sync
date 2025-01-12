@@ -1,1 +1,1 @@
-Pokonaliście 
+Pokonaliście przydupasów Klastora oraz dołączył do was Wichał Brzowskwiński. Rozglądając się po pomieszczeniu 
