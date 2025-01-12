@@ -1,4 +1,5 @@
-![[Illustration5_3-1-1.png | 350]]
+![[Illustration5_3-1-1.png|414]]
+
 
 Główne wady: naiwny, łatwowierny
 
@@ -21,7 +22,7 @@ notatki: od 6 lvla może robić lód
 - deflect missiles(reaction)
 ![[Screenshot_20240516-143052.png]]
 - elemental attunement
-![[Screenshot_20240612-161719.png]]
+![[Screenshot_20240612-161719.png|655]]
 
 Będzie brał udział z psychodelicznym rytuale [[Mycelianie |Mycelianów]], w którym pogłębi swoje mnichowe umiejętności władania 4 elementów. Rytuał będzie poprowadzony przez shamana. Zobaczy podczas rytuału 4 elementy w różnych formach, w tym swojego ojca. Po rytuale pojawią się na nim tatuaże. 
 Pomysły:
