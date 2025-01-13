@@ -1,4 +1,7 @@
 
+boksyt to popioł z korzeni socatry
+
+
 DO GRY: zamiast voice actingu zrobić non-voicy do kart, podobnie jak dźwięki poszczególnych pokemonów 
 
 Wichał ma kryjówke w salonie fryzjerskim
