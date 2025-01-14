@@ -2,6 +2,6 @@ Pokonaliście przydupasów Klastora oraz dołączył do was Wichał Brzowskwińs
 - 5 x [[Potion of Healing]]
 - [[Pearl of Power]]
 - [[+1 Weapons  | +1 Dagger]]
-- 
-Wichał Brzoskwiński: Zastałem tutaj więcej niż się spodziewałem - *kładzie dłoń na ziemi pod sobą. Jego oczy zapalają się zielono-brązowym światłem* - Silny prąd zaraz pod nami, musimy być nad kanalizacją. Zbiegacie po schodach za Wichałem na piętro niżej. 
+- [[Księga Klastora]]
+Wichał Brzoskwiński woła was do siebie i mówi: Zastałem tutaj więcej niż się spodziewałem - *kładzie dłoń na ziemi pod sobą. Jego oczy zapalają się zielono-brązowym światłem* - Silny prąd zaraz pod nami, musimy być nad kanalizacją. Zbiegacie po schodach za Wichałem na piętro niżej. 
 
