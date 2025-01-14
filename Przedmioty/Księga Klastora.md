@@ -1,0 +1,1 @@
+Przeżółknięte kartki obite w grubą skóre zawierają gęste 
