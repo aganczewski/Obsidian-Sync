@@ -2,4 +2,4 @@ Przeżółknięte kartki obite w grubą skóre zawierają notatki Klastora dotyc
 
 `Szef przywozi coraz więcej towaru do obrobienia,` 
 
-`Dostaliśmy zlecenie złapać `
+`Dostaliśmy zlecenie zgarnąć typa o imieniu Kameliusz, podobno może być wartościowy`
